@@ -1,0 +1,4 @@
+Stable version 0.6
+
+Everything fixed.
+Best stable version.
