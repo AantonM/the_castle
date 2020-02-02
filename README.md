@@ -1,5 +1,5 @@
 # The castle
-Small game designed for smartphones developed using Flash and AS3.
+Small game designed for smartphones developed using Flash and AS3. 
 
 <h2 id="desc">Description :page_with_curl:</h2>
 The aim of the game is to managed single resouce to upgrade the character defence and attack in order to destroy the enemy castle.
